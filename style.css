@@ -1,0 +1,25 @@
+    /* Custom coffee color */
+    .nav-link {
+      color: #f0f0f0; /* Coffee color for text */
+    }
+    .bg-coffee {
+      background-color: #3f2002; /* Coffee color for background */
+    }
+    .btn-coffee {
+      color: #fff; /* White text color for buttons */
+      background-color: #6f4e37; /* Coffee color for buttons */
+      border-color: #d8bca7; /* Border color for buttons */
+    }
+    .btn-coffee:hover{
+      background-color:#3f2002
+    }
+    .navbar-brand {
+      color: #d8bca7; /* Your custom color code */
+    }
+    /* Override Bootstrap active link color */
+    .navbar-nav .nav-link:hover {
+      color: #d8bca7; /* Change to your desired hover color */
+    }
+    .navbar,container-fluid,d-flex, btn:hover{
+      color:#f0f0f0;
+    }
