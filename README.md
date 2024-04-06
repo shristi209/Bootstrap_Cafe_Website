@@ -13,8 +13,7 @@ Planned sections include:
 <h2>Preview:</h2>
 The home page of the café provides an initial glimpse into the project's layout and design.
 
-
-![Home page](image.png)
+![Home page](images/image.png)
 
 
 Note:
